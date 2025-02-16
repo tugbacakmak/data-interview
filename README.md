@@ -37,7 +37,7 @@ Please complete the following tasks using Python and SQL. You can use any librar
 5. Calculate the median subscription duration (in months) for each country
 6. Calculate the Average Lifetime Value (LTV) by country
 
-### Bonus Tasks
+### BONUS Tasks (Optional)
 
 7. Predict the churn probability for user #1002 (Clark Kent)
    - Use any relevant features from the dataset
@@ -52,19 +52,10 @@ Please complete the following tasks using Python and SQL. You can use any librar
 Your submission will be evaluated based on:
 
 1. **Code Quality**
-   - Clean, well-documented code
-   - Efficient SQL queries
-   - Proper use of Python data structures and libraries
 
 2. **Analysis Quality**
-   - Depth of insights
-   - Statistical rigor
-   - Handling of edge cases
 
 3. **Communication**
-   - Clear explanation of methodology
-   - Well-structured presentation of results
-   - Visualization quality
 
 ## Submission Guidelines
 
